@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/thedevastator/twitch-streamers-comparing-top-streamers-across
+
+https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch
+
+https://www.kaggle.com/datasets/twitchspamtcc/twitch-chat-dataset-xqcow-sodapoppin
